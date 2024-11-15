@@ -8,7 +8,7 @@
 - 👩‍🎓 **Education:** Masters' in Mathematics
 - 💡 **Currently Learning:** Regression Analysis, R programming, and Data Analytics.
 - 🤝 **Looking to Collaborate On:** Data Science Projects,Legal Tech Solutions, and Open-Source Contributions.
-- 📩 **Email:** iasaahna@gmail.com | **LinkedIn:** http://www.linkedin.com/in/aahna-shresth
+- 📩 **Email:** shresth.aahna.isi@gmail.com | **LinkedIn:** http://www.linkedin.com/in/aahna-shresth
 
 
 ### Fun fact
