@@ -12,4 +12,4 @@
 
 
 ### Fun fact
-- ⚡I am pursuing PGDSMA, which empowers me to leverage advanced statistical methods and machine learning to solve complex problems and drive data-driven decision-making in various fields.
+- ⚡I am pursuing PGDSMA from Indian Statistical Institute, which empowers me to leverage advanced statistical methods and machine learning to solve complex problems and drive data-driven decision-making in various fields.
